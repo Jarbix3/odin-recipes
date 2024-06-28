@@ -1,17 +1,17 @@
 body{
-    background-color: black;
+background-color: black;
 }
 
 h1{
-    background: aquamarine;
-    padding-bottom: 5px;
-    padding-top: 5px;
-    margin: auto;
+background: aquamarine;
+padding-bottom: 5px;
+padding-top: 5px;
+margin: auto;
     
-    width: 300px;
-    border: 4px black solid;
-    display: flex;
-    justify-content: center;
+width: 300px;
+border: 4px black solid;
+display: flex;
+justify-content: center;
     
 }
 
@@ -30,17 +30,13 @@ justify-content: center;
 }
 
 li{
-    display: list-item;
-    list-style: decimal;
-    list-style:none;
-    flex: 1;
-    height: 297px;
-    line-height: 297px;
-    text-align: center;
-    
-    background-color: aquamarine;
-    
-    border: 3px orange solid;
+list-style:none;
+flex: 1;
+height: 297px;
+line-height: 297px;
+text-align: center;
+background-color: aquamarine;
+border: 3px orange solid;
     
     
     
