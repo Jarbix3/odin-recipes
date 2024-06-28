@@ -9,7 +9,7 @@ padding-top: 5px;
 margin: auto;
     
 width: 300px;
-border: 4px black solid;
+border: 4px orange solid;
 display: flex;
 justify-content: center;
     
@@ -38,7 +38,7 @@ height: 200px;
 line-height: 200px;
 text-align: center;
 background-color: aquamarine;
-border: 3px orange solid;
+border: 2px orange solid;
     
     
     
